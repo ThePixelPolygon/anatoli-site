@@ -3,8 +3,37 @@
 @tailwind utilities;
 
 @layer base {
-    h1 {
-        @apply text-5xl;
+    h1, h2, h3, h4, h5, h6 {
         font-family: 'Varela Round', 'sans-serif';
+    }
+    h1 {
+        @apply text-4xl;
+    }
+    h2 {
+        @apply text-3xl;
+    }
+    a {
+        @apply underline;
+    }
+    th, td {
+        @apply py-5;
+    }
+
+    /* This is extremely janky, but this is what happens when you write your laws in markdown. */
+    ol {
+        @apply list-decimal;
+        padding-inline: 1rem;
+    }
+    ol ol {
+        list-style-type: lower-latin;
+        padding-inline: 2rem;
+    }
+    ol ol ol {
+        list-style-type: lower-roman;
+        padding-inline: 2rem;
+    }
+    ol ol ol ol {
+        list-style-type: decimal;
+        padding-inline: 2rem;
     }
 }

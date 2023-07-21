@@ -1,0 +1,8 @@
+---
+const { href } = Astro.props
+---
+<a href={href} class="no-underline font-['Varela_Round'] relative p-3 transition-colors bg-black text-white hover:text-black focus:text-black hover:bg-[#FBC540] focus:bg-[#FBC540] inline-block">
+        <div class="absolute top-0 right-0 h-0 w-0 border-t-[#FBC540] border-t-[15px] border-l-[15px] border-l-transparent"></div>
+        <slot />
+    </div>
+</a>

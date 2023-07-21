@@ -1,0 +1,29 @@
+---
+import Main from "../layouts/Main.astro";
+const pageTitle = "Legislation | Anatoli";
+const laws = await Astro.glob('./legislation/*.md')
+---
+
+<Main title={pageTitle}>
+    <main class="container mx-auto pt-4" id="main-content">
+        <h1 class="pb-4">Legislation</h1>
+        <p>Welcome to the official online source of all Acts of Anatoli.</p>
+        <table class="border-collapse table-auto w-[100%]">
+            <thead class="border bg-black text-white">
+                <tr>
+                    <th>Title of Act</td>
+                    <th>Last Updated</td>
+                </tr>
+            </thead>
+            <tbody>
+                {
+                    laws.map((law) =>
+                        <tr class="border">
+                            <td class="border p-2"><a href={law.url}>{law.frontmatter.title}</a></td>
+                            <td class="border text-center">{law.frontmatter.updated.substring(0, 10)}</td>
+                        </tr>
+                    )
+                }
+            </tbody>
+        </table></main>
+</Main>

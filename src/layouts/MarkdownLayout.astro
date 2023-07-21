@@ -1,0 +1,14 @@
+---
+import Main from "./Main.astro";
+const { frontmatter } = Astro.props;
+---
+<Main title={ `${frontmatter.title} | Anatoli` }>
+    <article class="container mx-auto pt-4" id="main-content">
+        <div class="mb-10">
+            <h1>{frontmatter.title}</h1>
+            <p>{frontmatter.description}</p>
+            <p>Last updated: {frontmatter.updated.substring(0, 10)}</p>
+        </div>
+        <slot />
+    </article>
+</Main>

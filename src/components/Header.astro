@@ -1,10 +1,17 @@
 ---
 import Navigation from "./Navigation.astro";
 ---
-<header class="bg-black text-white py-8">
-    <div class="container flex flex-row items-center justify-evenly mx-auto">
-        <a href="/"><img src="src/img/logo.svg" alt="Anatoli logo" class="w-48"></a>
-        <Navigation />
+<header>
+    <div class="bg-gray-200 py-1">
+        <div class="container mx-auto">
+            <p>This is a website for the fictional nation of Anatoli on the bits & Bytes Vanilla Minecraft server. To return to the bits & Bytes Vanilla site index, please visit the following link. </p>
+            <a href="https://aircs.racing">Go to aircs.racing &rarr;</a>
+        </div>
     </div>
-    
+    <div class="bg-black text-white py-8">
+        <div class="container flex flex-row items-center justify-between mx-auto">
+            <a href="/"><img src="/src/img/logo.svg" alt="Anatoli logo" class="w-48"></a>
+            <Navigation />
+        </div>
+    </div>
 </header>
