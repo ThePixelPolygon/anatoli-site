@@ -1,0 +1,16 @@
+---
+import countries from "./visa-reqs.json"
+export async function getStaticPaths() {
+    return [
+        countries.countries.map((country) => {
+            return {
+                params: {short: country.short},
+                props: country
+            };
+        })
+    ];
+}
+const { country } = Astro.props;
+---
+
+<h1>{country}</h1>

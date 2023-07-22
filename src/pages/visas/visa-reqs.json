@@ -1,0 +1,334 @@
+{
+    "countries": [
+        {
+            "country": "Alure Regions",
+            "short": "alr",
+            "flag": "src/img/flags/alure.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Auckland",
+            "short": "aab",
+            "flag": "src/img/flags/auckland.png",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Aura Regions",
+            "short": "ara",
+            "flag": "src/img/flags/aura.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Birch Boat Town",
+            "short": "bbt",
+            "flag": "src/img/flags/bbt.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Birch Lodges",
+            "short": "blo",
+            "flag": "src/img/flags/aura.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Country Warp",
+            "short": "cow",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Federation of Doodads and Gizmos",
+            "short": "fdg",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Eagle City",
+            "short": "egl",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Fegal",
+            "short": "fgl",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Halcandra",
+            "short": "hal",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Inkytown",
+            "short": "ink",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Kemonomimi Republic",
+            "short": "krp",
+            "flag": "src/img/flags/kr.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Knowle Regions",
+            "short": "kwl",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "landrepeatland",
+            "short": "lrl",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Lion Land",
+            "short": "lli",
+            "flag": "src/img/flags/lion_land.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "MESS",
+            "short": "mes",
+            "flag": "src/img/flags/mess.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Mojave",
+            "short": "moj",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Open Republic",
+            "short": "orp",
+            "flag": "src/img/flags/open_republic.png",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "PLC",
+            "short": "plc",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Plutonium Imperium",
+            "short": "pli",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Federal Democracy of Solstice",
+            "short": "fds",
+            "flag": "src/img/flags/solstice.png",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Southeastern Islands",
+            "short": "sei",
+            "flag": "src/img/flags/sei.svg",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Sulópolis",
+            "short": "slp",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "TAY",
+            "short": "tay",
+            "flag": "src/img/flags/tay.png",
+            "visas": {
+                "visitor": false,
+                "work": false,
+                "study": false
+            },
+            "notes": ""
+        },
+        {
+            "country": "Union of Soviet Sovereign Republics",
+            "short": "sun",
+            "flag": "src/img/flags/ussr.svg",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Veronian Controlled Territories",
+            "short": "vct",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Vyxalla",
+            "short": "vyx",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Republic of Whale City",
+            "short": "wci",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Yavno",
+            "short": "yno",
+            "flag": "src/img/flags/yavno.png",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        },
+        {
+            "country": "Republic of You on Kazoo",
+            "short": "ryk",
+            "flag": "src/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": ""
+        }
+    ]
+}

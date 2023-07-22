@@ -9,7 +9,7 @@ updated: 2022-10-30
 # I. Scope of Act
 1. This act shall be in force in respect to any individual.
 2. This act does not apply in respect to the Anatolian Forces.
-II. Licensing
+# II. Licensing
 3. No person without a weapons and firearms licence is to possess or discharge of any firearm.
 4. The State shall determine the eligibility for an individual to hold a weapons and firearms licence in regards to the following
     5. Whether the individual has been convicted for any crime in the Criminal Code of Anatoli for which they have not been pardoned, or for any international crime for which they have not been pardoned.
