@@ -6,6 +6,7 @@ updated: 2022-09-10
 ---
 # Table of Contents
 
+# Preamble
 Whereas the Government of Anatoli and the former Government of the Union of Soviet Socialist Republics have agreed to a transfer of the territory known as Mainland Shiftania
 
 Be it declared and enacted by the Parliament of Anatoli as follows.

@@ -6,6 +6,7 @@ updated: 2023-07-16
 ---
 # Table of Contents
 
+# Preamble
 Whereas the State of Anatoli has seen increased threats to its security and sovereignty
 
 Be it therefore declared and enacted by the Parliament of Anatoli as follows

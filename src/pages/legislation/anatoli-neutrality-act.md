@@ -5,9 +5,12 @@ description: An Act respecting the neutrality, independence and sovereignty of A
 updated: 2023-07-16
 ---
 # Table of Contents
+
+# Preamble
 Whereas it is in the interest of the Anatolian people to promote international peace and to enforce that all diplomatic conflict shall be resolved by justice and order
 
 Be it therefore enacted and declared by the Parliament of Anatoli as follows.
+
 # I. Declaration of Neutrality
 1. The State shall not be permitted to participate in any external armed conflict for any matter. Any right to belligerency shall not be recognized.
     1. The State shall be allowed to act in resistance to any external force attempting to invade, occupy, or otherwise perform any act of aggression against or within the territory to protect its sovereignty and national security.
