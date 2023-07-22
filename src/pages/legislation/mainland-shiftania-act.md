@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/LegislationLayout.astro
 title: Mainland Shiftania Transfer of Sovereignty Act, 2022
 description: An Act to transfer the territory known as "Mainland Shiftania" from the Union of Soviet Socialist Republics to Anatoli, and to guarantee freedoms of its residents.
 updated: 2022-09-10

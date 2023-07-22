@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/LegislationLayout.astro
 title: Anatoli Border Security Act, 2023
 description: An Act to strengthen the security of Anatoli's borders
 updated: 2023-07-16

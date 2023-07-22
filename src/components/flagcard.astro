@@ -1,0 +1,16 @@
+---
+import Button from "./Button.astro";
+import Card from "./Card.astro";
+const { name } = Astro.props
+const { flagsrc } = Astro.props;
+const { visaReq } = Astro.props;
+const { url } = Astro.props;
+---
+<Card>
+    <div class="flex flex-col">
+        <div class="h-[150px] mb-4"><img class=" max-h-full" src={flagsrc == null ? "src/img/flags/no-flag.svg" : flagsrc} alt={`Flag of ${name}`}></div>
+        <h2>{name}</h2>
+        <slot class="flex-1"></slot>
+        <Button href={url == null ? "#" : url}>Learn More</Button>
+    </div>
+</Card>

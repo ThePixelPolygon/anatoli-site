@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/LegislationLayout.astro
 title: Anatoli Act, 2022
 updated: 2022-09-14
 description: An Act to form the new Confederation of Anatoli

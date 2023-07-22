@@ -1,7 +1,7 @@
 ---
-import Main from "../layouts/Main.astro";
+import Main from "../../layouts/Main.astro";
 const pageTitle = "Legislation | Anatoli";
-const laws = await Astro.glob('./legislation/*.md')
+const laws = await Astro.glob('./*.md')
 ---
 
 <Main title={pageTitle}>

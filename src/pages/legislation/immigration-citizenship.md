@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/LegislationLayout.astro
 title: Immigration and Citizenship Act
 description: 
 updated: 2023-06-15

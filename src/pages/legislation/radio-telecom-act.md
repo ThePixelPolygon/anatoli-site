@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/LegislationLayout.astro
 title: Radio-Television and Telecommunications Act of Anatoli
 description: An Act regulating Anatolian airwaves for radio, television, telecommunications, and other purposes connected herewith.
 updated: 2022-08-22

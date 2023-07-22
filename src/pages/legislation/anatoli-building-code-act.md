@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/LegislationLayout.astro
 title: Anatoli Building Code Act, 2022
 updated: 2022-07-21
 ---

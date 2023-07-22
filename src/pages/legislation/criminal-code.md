@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/LegislationLayout.astro
 title: Criminal Code of Anatoli
 description: An Act respecting the Criminal Law
 updated: 2023-07-21

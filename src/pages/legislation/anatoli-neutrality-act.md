@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/LegislationLayout.astro
 title: Anatoli Neutrality Act
 description: An Act respecting the neutrality, independence and sovereignty of Anatoli.
 updated: 2023-07-16

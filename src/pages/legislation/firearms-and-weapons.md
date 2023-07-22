@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/LegislationLayout.astro
 title: Firearms and Weapons Act
 description: An Act controlling the sale and use of firearms and weapons within Anatoli.
 updated: 2022-10-30

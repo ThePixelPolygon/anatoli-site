@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/LegislationLayout.astro
 title: The Road Transportation Act of Anatoli
 description: An Act regulating driver behaviour and road construction.
 updated: 2022-05-14

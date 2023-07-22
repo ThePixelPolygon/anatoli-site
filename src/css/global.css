@@ -22,7 +22,7 @@
     /* This is extremely janky, but this is what happens when you write your laws in markdown. */
     ol {
         @apply list-decimal;
-        padding-inline: 1rem;
+        padding-inline: 2rem;
     }
     ol ol {
         list-style-type: lower-latin;
