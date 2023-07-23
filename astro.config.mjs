@@ -7,6 +7,8 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://thepixelpolygon.github.io',
+  base: '/anatoli-site',
   markdown: {
     remarkPlugins: [remarkToc]
   },
