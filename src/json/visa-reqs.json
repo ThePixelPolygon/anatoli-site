@@ -3,7 +3,7 @@
         {
             "country": "Alure Regions",
             "short": "alr",
-            "flag": "src/img/flags/alure.png",
+            "flag": "/src/img/flags/alure.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -14,7 +14,7 @@
         {
             "country": "Auckland",
             "short": "aab",
-            "flag": "src/img/flags/auckland.png",
+            "flag": "/src/img/flags/auckland.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -25,7 +25,7 @@
         {
             "country": "Aura Regions",
             "short": "ara",
-            "flag": "src/img/flags/aura.png",
+            "flag": "/src/img/flags/aura_regions.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -36,7 +36,7 @@
         {
             "country": "Birch Boat Town",
             "short": "bbt",
-            "flag": "src/img/flags/bbt.png",
+            "flag": "/src/img/flags/bbt.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -47,7 +47,6 @@
         {
             "country": "Birch Lodges",
             "short": "blo",
-            "flag": "src/img/flags/aura.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -58,7 +57,7 @@
         {
             "country": "Country Warp",
             "short": "cow",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -69,7 +68,7 @@
         {
             "country": "Federation of Doodads and Gizmos",
             "short": "fdg",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -80,7 +79,7 @@
         {
             "country": "Eagle City",
             "short": "egl",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -91,7 +90,7 @@
         {
             "country": "Fegal",
             "short": "fgl",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -102,7 +101,7 @@
         {
             "country": "Halcandra",
             "short": "hal",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -113,9 +112,9 @@
         {
             "country": "Inkytown",
             "short": "ink",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
-                "visitor": false,
+                "visitor": true,
                 "work": true,
                 "study": true
             },
@@ -124,7 +123,7 @@
         {
             "country": "Kemonomimi Republic",
             "short": "krp",
-            "flag": "src/img/flags/kr.png",
+            "flag": "/src/img/flags/kr.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -135,7 +134,7 @@
         {
             "country": "Knowle Regions",
             "short": "kwl",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -146,7 +145,7 @@
         {
             "country": "landrepeatland",
             "short": "lrl",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -157,7 +156,7 @@
         {
             "country": "Lion Land",
             "short": "lli",
-            "flag": "src/img/flags/lion_land.png",
+            "flag": "/src/img/flags/lion_land.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -168,7 +167,7 @@
         {
             "country": "MESS",
             "short": "mes",
-            "flag": "src/img/flags/mess.png",
+            "flag": "/src/img/flags/mess.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -179,7 +178,7 @@
         {
             "country": "Mojave",
             "short": "moj",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -190,7 +189,7 @@
         {
             "country": "Open Republic",
             "short": "orp",
-            "flag": "src/img/flags/open_republic.png",
+            "flag": "/src/img/flags/open_republic.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -201,7 +200,7 @@
         {
             "country": "PLC",
             "short": "plc",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -212,7 +211,7 @@
         {
             "country": "Plutonium Imperium",
             "short": "pli",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -223,7 +222,7 @@
         {
             "country": "Federal Democracy of Solstice",
             "short": "fds",
-            "flag": "src/img/flags/solstice.png",
+            "flag": "/src/img/flags/solstice.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -234,7 +233,7 @@
         {
             "country": "Southeastern Islands",
             "short": "sei",
-            "flag": "src/img/flags/sei.svg",
+            "flag": "/src/img/flags/sei.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -245,7 +244,7 @@
         {
             "country": "Sulópolis",
             "short": "slp",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -256,7 +255,7 @@
         {
             "country": "TAY",
             "short": "tay",
-            "flag": "src/img/flags/tay.png",
+            "flag": "/src/img/flags/tay.png",
             "visas": {
                 "visitor": false,
                 "work": false,
@@ -267,7 +266,7 @@
         {
             "country": "Union of Soviet Sovereign Republics",
             "short": "sun",
-            "flag": "src/img/flags/ussr.svg",
+            "flag": "/src/img/flags/ussr.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -278,7 +277,7 @@
         {
             "country": "Veronian Controlled Territories",
             "short": "vct",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -289,7 +288,7 @@
         {
             "country": "Vyxalla",
             "short": "vyx",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -300,7 +299,7 @@
         {
             "country": "Republic of Whale City",
             "short": "wci",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -311,7 +310,7 @@
         {
             "country": "Yavno",
             "short": "yno",
-            "flag": "src/img/flags/yavno.png",
+            "flag": "/src/img/flags/yavno.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -322,7 +321,7 @@
         {
             "country": "Republic of You on Kazoo",
             "short": "ryk",
-            "flag": "src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,

@@ -1,0 +1,20 @@
+---
+const { visa } = Astro.props
+let colour = "bg-[#F9DFB2]";
+let border = "border-anatoli-yellow"
+let img = "src/img/icons/warning.svg"
+let alt = "Warning icon"
+let description = "Visa Required"
+if (visa === "false") {
+    colour = "bg-[#94F5AA]"
+    border = "border-[#7DD552]"
+    img = "src/img/icons/check-green-circ.svg"
+    alt = "Checkmark"
+    description = "Visa Not Required"
+}
+---
+
+<div class={`flex items-center md:flex-row sm:flex-col border-4 ${border} p-4 ${colour}`}>
+    <div class="w-[4rem] mr-2"><img src={img} alt={alt}></div>
+    <div><h2>{description}</h2></div>
+</div>

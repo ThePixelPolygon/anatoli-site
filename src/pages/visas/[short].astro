@@ -1,5 +1,7 @@
 ---
-import countries from "./visa-reqs.json"
+import Main from "../../layouts/Main.astro";
+import countries from "../../json/visa-reqs.json"
+import VisaBanner from "../../components/VisaBanner.astro";
 export async function getStaticPaths() {
     return [
         countries.countries.map((country) => {
@@ -11,6 +13,11 @@ export async function getStaticPaths() {
     ];
 }
 const { country } = Astro.props;
+const { flag } = Astro.props;
 ---
-
-<h1>{country}</h1>
+<Main>
+    <main class="mt-4" id="main-content">
+        <img src={flag} alt={`Flag of ${country}`}>
+        <h1>{country}</h1>
+    </main>
+</Main>

@@ -8,7 +8,10 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				sans: ['Noto Sans', 'sans-serif']
-			}
+			},
+			colors: {
+				'anatoli-yellow': '#FBC540',
+			},
 		},
 	},
 	plugins: [],
