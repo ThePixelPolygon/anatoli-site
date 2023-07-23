@@ -4,6 +4,8 @@ title: Immigration and Citizenship Act
 description: 
 updated: 2023-06-15
 ---
+# Table of Contents
+
 # I. Establishment of the IRCA
 1. Immigration, Refugees, and Citizenship Anatoli (IRCA) shall be responsible for the evaluation and admission of individuals looking to become a national of the State.
 2. The following rights are governed by this Act
