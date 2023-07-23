@@ -47,6 +47,7 @@
         {
             "country": "Birch Lodges",
             "short": "blo",
+            "flag": "/src/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -90,7 +91,7 @@
         {
             "country": "Fegal",
             "short": "fgl",
-            "flag": "/src/img/flags/no-flag.svg",
+            "flag": "/src/img/flags/fegal.png",
             "visas": {
                 "visitor": true,
                 "work": true,
