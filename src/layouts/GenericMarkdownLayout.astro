@@ -1,0 +1,9 @@
+---
+import Main from "./Main.astro";
+const { frontmatter } = Astro.props
+---
+<Main title={`${frontmatter.title} | Anatoli`}>
+    <main class="mt-4 container" id="main-content">
+        <slot />
+    </main>
+</Main>

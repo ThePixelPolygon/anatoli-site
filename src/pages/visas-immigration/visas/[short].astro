@@ -1,0 +1,47 @@
+---
+import Main from "../../../layouts/Main.astro";
+import countries from "../../../json/visa-reqs.json"
+import VisaBanner from "../../../components/VisaBanner.astro";
+export async function getStaticPaths() {
+    return [
+        countries.countries.map((country) => {
+            return {
+                params: {short: country.short},
+                props: {
+                    name: country.country,
+                    flag: country.flag,
+                    visa: country.visas.visitor
+                }
+            };
+        })
+    ];
+}
+const { name } = Astro.props;
+const { flag } = Astro.props;
+const { visa } = Astro.props;
+
+let visitorVisa = ""
+if (visa) {
+    visitorVisa = "If you are planning to visit Anatoli, you will need to apply for a visa at an Anatoli consular post."
+}
+else {
+    visitorVisa = "You do not need a visa to if you are visiting or transiting through Anatoli for up to 90 days. For stays longer than 90 days, you will need to apply for a visa at an Anatoli consular post."
+}
+---
+<Main>
+    <main class="mt-4 container" id="main-content">
+        <div class="flex flex-row mb-4 items-center">
+            <div class="h-40 mr-4">
+                <img class="max-h-full" src={flag} alt={`Flag of ${name}`}>
+            </div>
+            <h1>{name}</h1>
+        </div>
+        <VisaBanner visa={`${visa}`} />
+        <h2>Visiting and Transit</h2>
+        <p>{visitorVisa}</p>
+        <h2>Working</h2>
+        <p>If you are expecting to work full-time in Anatoli, you will need to apply for a work visa at an Anatoli consular post.</p>
+        <h2>Study</h2>
+        <p>If you are studying at an educational institution for longer than six (6) months, you will need to apply for a study visa at an Anatoli consular post. Please note that a study visa does not grant you the right to work full-time.</p>
+    </main>
+</Main>

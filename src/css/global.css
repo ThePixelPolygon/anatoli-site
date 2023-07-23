@@ -12,6 +12,9 @@
     h2 {
         @apply text-3xl;
     }
+    h3 {
+        @apply text-2xl;
+    }
     a {
         @apply underline;
     }
@@ -34,6 +37,10 @@
     }
     ol ol ol ol {
         list-style-type: decimal;
+        padding-inline: 2rem;
+    }
+    ul {
+        @apply list-disc;
         padding-inline: 2rem;
     }
 }

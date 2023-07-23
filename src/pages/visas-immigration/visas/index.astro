@@ -1,8 +1,7 @@
 ---
-import countries from "../../json/visa-reqs.json"
-import VisaBanner from "../../components/VisaBanner.astro";
-import FlagCard from "../../components/FlagCard.astro";
-import Main from "../../layouts/Main.astro";
+import countries from "../../../json/visa-reqs.json"
+import FlagCard from "../../../components/FlagCard.astro";
+import Main from "../../../layouts/Main.astro";
 ---
 <Main title="Visas | Anatoli">
     <main class="pt-4 container mx-auto" id="main-content">
@@ -11,7 +10,7 @@ import Main from "../../layouts/Main.astro";
         <section class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 grid-cols-1">
             {countries.countries.map((country) =>
                 <FlagCard name={country.country} flagsrc={country.flag} visaReq={`${country.visas.visitor}`} url={`/visas/${country.short}`}>
-                    
+                    <p>{country.notes}</p>
                 </FlagCard>
             )}
         </section>
