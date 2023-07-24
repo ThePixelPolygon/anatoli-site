@@ -3,7 +3,7 @@
         {
             "country": "Alure Regions",
             "short": "alr",
-            "flag": "/anatoli-site/src/img/flags/alure.png",
+            "flag": "/anatoli-site/img/flags/alure.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -14,7 +14,7 @@
         {
             "country": "Auckland",
             "short": "aab",
-            "flag": "/anatoli-site/src/img/flags/auckland.png",
+            "flag": "/anatoli-site/img/flags/auckland.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -25,7 +25,7 @@
         {
             "country": "Aura Regions",
             "short": "ara",
-            "flag": "/anatoli-site/src/img/flags/aura_regions.png",
+            "flag": "/anatoli-site/img/flags/aura_regions.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -36,7 +36,7 @@
         {
             "country": "Birch Boat Town",
             "short": "bbt",
-            "flag": "/anatoli-site/src/img/flags/bbt.png",
+            "flag": "/anatoli-site/img/flags/bbt.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -47,7 +47,7 @@
         {
             "country": "Birch Lodges",
             "short": "blo",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -58,7 +58,7 @@
         {
             "country": "Country Warp",
             "short": "cow",
-            "flag": "/anatoli-site/src/img/flags/country_warp.png",
+            "flag": "/anatoli-site/img/flags/country_warp.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -69,7 +69,7 @@
         {
             "country": "Federation of Doodads and Gizmos",
             "short": "fdg",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -80,7 +80,7 @@
         {
             "country": "Eagle City",
             "short": "egl",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -91,7 +91,7 @@
         {
             "country": "Fegal",
             "short": "fgl",
-            "flag": "/anatoli-site/src/img/flags/fegal.png",
+            "flag": "/anatoli-site/img/flags/fegal.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -102,7 +102,7 @@
         {
             "country": "Halcandra",
             "short": "hal",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -113,7 +113,7 @@
         {
             "country": "Inkytown",
             "short": "ink",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -124,7 +124,7 @@
         {
             "country": "Kemonomimi Republic",
             "short": "krp",
-            "flag": "/anatoli-site/src/img/flags/kr.png",
+            "flag": "/anatoli-site/img/flags/kr.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -135,7 +135,7 @@
         {
             "country": "Knowle Regions",
             "short": "kwl",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -146,7 +146,7 @@
         {
             "country": "landrepeatland",
             "short": "lrl",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -157,7 +157,7 @@
         {
             "country": "Lion Land",
             "short": "lli",
-            "flag": "/anatoli-site/src/img/flags/lion_land.png",
+            "flag": "/anatoli-site/img/flags/lion_land.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -168,7 +168,7 @@
         {
             "country": "MESS",
             "short": "mes",
-            "flag": "/anatoli-site/src/img/flags/mess.png",
+            "flag": "/anatoli-site/img/flags/MESS.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -179,7 +179,7 @@
         {
             "country": "Mojave",
             "short": "moj",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -190,7 +190,7 @@
         {
             "country": "Open Republic",
             "short": "orp",
-            "flag": "/anatoli-site/src/img/flags/open_republic.png",
+            "flag": "/anatoli-site/img/flags/open_republic.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -201,7 +201,7 @@
         {
             "country": "PLC",
             "short": "plc",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -212,7 +212,7 @@
         {
             "country": "Plutonium Imperium",
             "short": "pli",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -223,7 +223,7 @@
         {
             "country": "Federal Democracy of Solstice",
             "short": "fds",
-            "flag": "/anatoli-site/src/img/flags/solstice.png",
+            "flag": "/anatoli-site/img/flags/solstice.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -234,7 +234,7 @@
         {
             "country": "Southeastern Islands",
             "short": "sei",
-            "flag": "/anatoli-site/src/img/flags/sei.png",
+            "flag": "/anatoli-site/img/flags/sei.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -245,7 +245,7 @@
         {
             "country": "Sulópolis",
             "short": "slp",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -256,7 +256,7 @@
         {
             "country": "TAY",
             "short": "tay",
-            "flag": "/anatoli-site/src/img/flags/tay.png",
+            "flag": "/anatoli-site/img/flags/tay.png",
             "visas": {
                 "visitor": false,
                 "work": false,
@@ -267,7 +267,7 @@
         {
             "country": "U.S.S.R.",
             "short": "sun",
-            "flag": "/anatoli-site/src/img/flags/ussr.png",
+            "flag": "/anatoli-site/img/flags/ussr.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -278,7 +278,7 @@
         {
             "country": "Veronian Controlled Territories",
             "short": "vct",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -289,7 +289,7 @@
         {
             "country": "Vyxalla",
             "short": "vyx",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -300,7 +300,7 @@
         {
             "country": "Republic of Whale City",
             "short": "wci",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -311,7 +311,7 @@
         {
             "country": "Yavno",
             "short": "yno",
-            "flag": "/anatoli-site/src/img/flags/yavno.png",
+            "flag": "/anatoli-site/img/flags/yavno.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -322,7 +322,7 @@
         {
             "country": "Republic of You on Kazoo",
             "short": "ryk",
-            "flag": "/anatoli-site/src/img/flags/no-flag.svg",
+            "flag": "/anatoli-site/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
