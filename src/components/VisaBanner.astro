@@ -2,13 +2,13 @@
 const { visa } = Astro.props
 let colour = "bg-[#F9DFB2]";
 let border = "border-anatoli-yellow"
-let img = "/anatoli-site/img/icons/warning.svg"
+let img = "/img/icons/warning.svg"
 let alt = "Warning icon"
 let description = "Visa Required"
 if (visa === "false") {
     colour = "bg-[#94F5AA]"
     border = "border-[#7DD552]"
-    img = "/anatoli-site/img/icons/check-green-circ.svg"
+    img = "/img/icons/check-green-circ.svg"
     alt = "Checkmark"
     description = "Visa Not Required"
 }
