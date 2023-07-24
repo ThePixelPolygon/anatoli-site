@@ -1,0 +1,17 @@
+name: Build Site
+on:
+  pull_request:
+    branches: 
+      - main
+
+jobs:
+  check_build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - uses: actions/setup-node@v3.7.0
+      - run: npm ci
+      - name: Attempt Site Build
+        run: npx astro build
+          
