@@ -210,7 +210,7 @@
             "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
         },
         {
-            "country": "Plutonium Imperium",
+            "country": "Plutonia Imperium",
             "short": "pli",
             "flag": "/img/flags/no-flag.svg",
             "visas": {
@@ -289,7 +289,7 @@
         {
             "country": "Vyxalla",
             "short": "vyx",
-            "flag": "/img/flags/no-flag.svg",
+            "flag": "/img/flags/vyxalla.png",
             "visas": {
                 "visitor": false,
                 "work": true,
