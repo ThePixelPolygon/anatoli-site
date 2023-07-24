@@ -6,7 +6,7 @@ const pageTitle = "Home"
 ---
 
 <Main title={pageTitle}>
-    <img src="/src/img/parliament.png" alt="Anatoli Parliament building" class="object-cover h-[35vh]">
+    <img src=`${import.meta.env.BASE_URL}src/img/parliament.png` alt="Anatoli Parliament building" class="object-cover h-[35vh]">
     <main class="container mx-auto mt-4" id="main-content">
         <h1>Welcome to Anatoli</h1>
         <p>This is the official website of the Government of Anatoli</p>
@@ -17,7 +17,7 @@ const pageTitle = "Home"
                         <h2>Legislation</h2>
                         <p>Get up-to-date information on the laws of Anatoli.</p>
                     </div>
-                    <Button href="/legislation">Learn more</Button>
+                    <Button href="legislation">Learn more</Button>
                 </div>
             </Card>
             <Card>
@@ -26,7 +26,7 @@ const pageTitle = "Home"
                         <h2>Immigrate to Anatoli</h2>
                         <p>Learn how to become a permanent resident or a citizen of Anatoli.</p>
                     </div>
-                    <Button href="/visas-immigration/immigration">Learn more</Button>
+                    <Button href="visas-immigration/immigration">Learn more</Button>
                 </div>
             </Card>
             <Card>
@@ -35,7 +35,7 @@ const pageTitle = "Home"
                         <h2>Visas</h2>
                         <p>Find out if you need a visa to visit Anatoli, as well as any extra entry restrictions.</p>
                     </div>
-                    <Button href="/visas-immigration/visas">Learn more</Button>
+                    <Button href="visas-immigration/visas">Learn more</Button>
                 </div>
             </Card>
         </div>
