@@ -245,7 +245,7 @@
         {
             "country": "Sulópolis",
             "short": "slp",
-            "flag": "/img/flags/no-flag.svg",
+            "flag": "/img/flags/sulopolis.png",
             "visas": {
                 "visitor": false,
                 "work": true,
