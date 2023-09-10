@@ -179,7 +179,7 @@
         {
             "country": "Mojave",
             "short": "moj",
-            "flag": "/img/flags/no-flag.svg",
+            "flag": "/img/flags/mojave_flag.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -191,6 +191,17 @@
             "country": "Open Republic",
             "short": "orp",
             "flag": "/img/flags/open_republic.png",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
+        },
+        {
+            "country": "Ownage",
+            "short": "own",
+            "flag": "/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -312,17 +323,6 @@
             "country": "Yavno",
             "short": "yno",
             "flag": "/img/flags/yavno.png",
-            "visas": {
-                "visitor": true,
-                "work": true,
-                "study": true
-            },
-            "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
-        },
-        {
-            "country": "Republic of You on Kazoo",
-            "short": "ryk",
-            "flag": "/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
