@@ -39,10 +39,10 @@ updated: 2022-05-14
 7. A class “G” licence shall be attainable through a graduated licence program.
 8. Except where may be otherwise prescribed by law, licence holders who do not hold a driver’s history within Anatoli shall receive a class “G1” licence.
 9. No person with a “G1” licence shall be permitted to operate a conveyance
-    10. Without the presence of a class “G” licence holder.
-    11. Between the hours of 00:00 (18,000 ticks) and 05:00 (23,000 ticks)
-    12. On any highway operated by the State, as well as any WMS, MCHS, or OHN highway.
-    13. With a blood alcohol level exceeding 0g per 100mL of blood
+    1. Without the presence of a class “G” licence holder.
+    2. Between the hours of 00:00 (18,000 ticks) and 05:00 (23,000 ticks)
+    3. On any highway operated by the State, as well as any WMS, MCHS, or OHN highway.
+    4. With a blood alcohol level exceeding 0g per 100mL of blood
 10. Class “G1” licence holders shall be eligible to receive a class “G2” licence, provided they may sufficiently prove their driving ability.
 11. No person holding a class “G2” licence shall be permitted to operate a conveyance with a blood alcohol level exceeding 0g per 100mL of blood.
 12. Class “G2” licence holders shall be eligible to receive a class “G” licence, provided they may sufficiently prove their driving ability.
