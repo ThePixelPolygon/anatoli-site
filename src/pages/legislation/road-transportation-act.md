@@ -2,15 +2,20 @@
 layout: ../../layouts/LegislationLayout.astro
 title: The Road Transportation Act of Anatoli
 description: An Act regulating driver behaviour and road construction.
-updated: 2022-05-14
+updated: 2023-10-26
 ---
 # Table of Contents
 # I. Driver Code of Conduct
 1. Anatoli is a right-hand side drive state. All traffic moving forward shall do so on the right side of the road.
-2. If any emergency vehicle(s) is/are approaching, all drivers within the vehicle’s way shall stop and allow the vehicle to pass first. Drivers in violation of this law are subject to a maximum fine of $150,000.
+2. If any emergency vehicle(s) is/are approaching, all drivers within the vehicle’s way shall stop and allow the vehicle to pass first. Everyone who, without lawful excuse, fails to stop for an emergency vehilcle is liable to a monetary penalty no more than $27,000.
 # II. Licenced Driving
 3. For the purposes of this Act, a resident is defined as a person holding permanent resident status, or a citizenship.
 4. No person shall be permitted to operate a motor vehicle without due authorization from the State.
+    1. Every person who operates a motor vehicle without authorization is guilty of
+        1. If the unauthorized operation of the motor vehicle did not cause bodily harm or the destruction of property, an offence punishable by summary conviction
+        2. If the unauthorized operation of the motor vehicle caused bodily harm or the destruction of property,
+            1. an indictable offence and is liable to a prison term not exceeding ten (10) years
+            2. an offence punishable by summary conviction.
 5. A resident of the State shall be required to bear a valid licence to operate a motor vehicle as is set out in Regulation A of this Act.
     1. Section (5) does not apply if this person is licenced to drive within another jurisdiction and meets the requirements as set out in Regulation A of this Act.
 

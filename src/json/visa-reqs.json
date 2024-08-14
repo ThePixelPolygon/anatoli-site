@@ -45,17 +45,6 @@
             "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
         },
         {
-            "country": "Birch Lodges",
-            "short": "blo",
-            "flag": "/img/flags/no-flag.svg",
-            "visas": {
-                "visitor": false,
-                "work": true,
-                "study": true
-            },
-            "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
-        },
-        {
             "country": "Country Warp",
             "short": "cow",
             "flag": "/img/flags/country_warp.png",
@@ -65,6 +54,17 @@
                 "study": true
             },
             "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
+        },
+        {
+            "country": "Cypress",
+            "short": "cyp",
+            "flag": "/img/flags/cypress.png",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
         },
         {
             "country": "Federation of Doodads and Gizmos",
@@ -113,7 +113,7 @@
         {
             "country": "Inkytown",
             "short": "ink",
-            "flag": "/img/flags/no-flag.svg",
+            "flag": "/img/flags/inkytown.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -135,7 +135,7 @@
         {
             "country": "Knowle Regions",
             "short": "kwl",
-            "flag": "/img/flags/no-flag.svg",
+            "flag": "/img/flags/knowle.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -257,6 +257,17 @@
             "country": "Sulópolis",
             "short": "slp",
             "flag": "/img/flags/sulopolis.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
+        },
+        {
+            "country": "Summasol",
+            "short": "sms",
+            "flag": "/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
