@@ -243,8 +243,8 @@
             "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
         },
         {
-            "country": "Federal Democracy of Solstice",
-            "short": "fds",
+            "country": "Solstian Federation",
+            "short": "sfr",
             "flag": "/img/flags/solstice.png",
             "visas": {
                 "visitor": true,
