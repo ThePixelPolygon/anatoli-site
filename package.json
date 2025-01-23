@@ -10,11 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^0.19.7",
+    "@astrojs/mdx": "^4.0.7",
     "@astrojs/preact": "^2.2.1",
-    "@astrojs/tailwind": "^4.0.0",
-    "astro": "^2.8.5",
-    "astro-breadcrumbs": "^1.6.1",
+    "@astrojs/tailwind": "^5.1.5",
+    "astro": "^5.1.8",
+    "astro-breadcrumbs": "^1.10.0",
     "preact": "^10.16.0",
     "remark-toc": "^8.0.1",
     "tailwindcss": "^3.3.3"
