@@ -34,6 +34,17 @@
             "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
         },
         {
+            "country": "Basuran Federal Union",
+            "short": "bfu",
+            "flag": "/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
+        },
+        {
             "country": "Birch Boat Town",
             "short": "bbt",
             "flag": "/img/flags/bbt.png",
@@ -45,30 +56,8 @@
             "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
         },
         {
-            "country": "Country Warp",
-            "short": "cow",
-            "flag": "/img/flags/country_warp.png",
-            "visas": {
-                "visitor": false,
-                "work": true,
-                "study": true
-            },
-            "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
-        },
-        {
-            "country": "Cypress",
-            "short": "cyp",
-            "flag": "/img/flags/cypress.png",
-            "visas": {
-                "visitor": true,
-                "work": true,
-                "study": true
-            },
-            "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
-        },
-        {
-            "country": "Federation of Doodads and Gizmos",
-            "short": "fdg",
+            "country": "The Republic of Bohemia",
+            "short": "bhm",
             "flag": "/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
@@ -76,6 +65,17 @@
                 "study": true
             },
             "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
+        },
+        {
+            "country": "Cypress",
+            "short": "cyp",
+            "flag": "/img/flags/cypress.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
         },
         {
             "country": "Eagle City",
@@ -89,9 +89,53 @@
             "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
         },
         {
+            "country": "Federal Republic of Warp",
+            "short": "cow",
+            "flag": "/img/flags/country_warp.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
+        },
+        {
             "country": "Fegal",
             "short": "fgl",
             "flag": "/img/flags/fegal.png",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
+        },
+        {
+            "country": "Furryburg",
+            "short": "fbg",
+            "flag": "/img/flags/furryburg.png",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
+        },
+        {
+            "country": "Gizmo City",
+            "short": "fdg",
+            "flag": "/img/flags/gizmo.png",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
+        },
+        {
+            "country": "The Great Cat's Village",
+            "short": "gcv",
+            "flag": "/img/flags/no-flag.svg",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -123,6 +167,17 @@
         },
         {
             "country": "Kemonomimi Republic",
+            "short": "krp",
+            "flag": "/img/flags/kr.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
+        },
+        {
+            "country": "Kingdom of Union Jacks",
             "short": "krp",
             "flag": "/img/flags/kr.png",
             "visas": {
@@ -254,9 +309,9 @@
             "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
         },
         {
-            "country": "Sorena",
+            "country": "The Republic of Sorena",
             "short": "srn",
-            "flag": "/img/flags/no-flag.svg",
+            "flag": "/img/flags/sorena.png",
             "visas": {
                 "visitor": true,
                 "work": true,
@@ -278,7 +333,7 @@
         {
             "country": "Summasol",
             "short": "sms",
-            "flag": "/img/flags/no-flag.svg",
+            "flag": "/img/flags/summasol.png",
             "visas": {
                 "visitor": false,
                 "work": true,
@@ -296,6 +351,17 @@
                 "study": false
             },
             "notes": "Under the Anatoli-TAY Common Travel Agreement, TAY citizens are entitled to an indefinite work and study visa upon arrival."
+        },
+        {
+            "country": "Vosazen",
+            "short": "vzn",
+            "flag": "/img/flags/vosazen.png",
+            "visas": {
+                "visitor": false,
+                "work": true,
+                "study": true
+            },
+            "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
         },
         {
             "country": "U.S.S.R.",
