@@ -178,8 +178,8 @@
         },
         {
             "country": "Kingdom of Union Jacks",
-            "short": "krp",
-            "flag": "/img/flags/kr.png",
+            "short": "kuj",
+            "flag": "/img/flags/kuj.png",
             "visas": {
                 "visitor": false,
                 "work": true,
