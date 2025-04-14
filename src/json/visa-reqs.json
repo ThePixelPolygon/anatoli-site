@@ -355,7 +355,7 @@
         {
             "country": "Vosazen",
             "short": "vzn",
-            "flag": "/img/flags/vosazen.png",
+            "flag": "/img/flags/no-flag.svg",
             "visas": {
                 "visitor": false,
                 "work": true,
