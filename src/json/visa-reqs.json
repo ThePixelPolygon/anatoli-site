@@ -89,6 +89,17 @@
             "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
         },
         {
+            "country": "EmpireFirstTimer",
+            "short": "eft",
+            "flag": "/img/flags/no-flag.svg",
+            "visas": {
+                "visitor": true,
+                "work": true,
+                "study": true
+            },
+            "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
+        },
+        {
             "country": "Federal Republic of Warp",
             "short": "cow",
             "flag": "/img/flags/country_warp.png",
