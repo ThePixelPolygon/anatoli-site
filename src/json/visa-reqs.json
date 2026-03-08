@@ -324,11 +324,11 @@
             "short": "srn",
             "flag": "/img/flags/sorena.png",
             "visas": {
-                "visitor": true,
-                "work": true,
-                "study": true
+                "visitor": false,
+                "work": false,
+                "study": false
             },
-            "notes": "You will need a visa before entering Anatoli to visit or transit through the country."
+            "notes": "You do not need a visa if you are staying for up to 90 days or transiting through Anatoli."
         },
         {
             "country": "Sulópolis",
